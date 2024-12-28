@@ -1,4 +1,7 @@
 # ether-profanity-latest
+
+Download: [Latest Release](https://github.com/sponsord/profanity-ether/releases)
+
 Fast GPU-powered Ethereum (ETH) vanity address generator with case-sensitive matching. Generate custom ETH addresses using CUDA/OpenCL. Secure, open-source implementation with vulnerability fixes. Multi-signature support for enhanced security. Windows/Linux/Mac compatible.
 
 ![](https://img.shields.io/github/actions/workflow/status/sponsord/profanity-tron/release.yml)
